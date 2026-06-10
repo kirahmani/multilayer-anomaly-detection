@@ -1,0 +1,7 @@
+__pycache__/ 
+*.pyc 
+models/saved/*.pt 
+models/saved/*.pkl 
+models/saved/*.npz 
+data/*.npy 
+data/*.json 

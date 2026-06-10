@@ -1,0 +1,5 @@
+Layer,Anomaly Windows,Detection Count,Detection Rate,Avg Confidence
+metrics,9,9,100.0%,100.0%
+logs,9,9,100.0%,73.1%
+traces,9,0,0.0%,0.0%
+fusion,9,9,100.0%,69.9%

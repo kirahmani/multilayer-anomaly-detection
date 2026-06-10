@@ -1,0 +1,4 @@
+Period,Anomaly Rate,Avg Confidence,Primary Detector
+1-11 (Normal),0%,3.6%,N/A
+12-13 (Early Anomaly),100%,41.0%,Metrics
+14-20 (Established),100%,78.1%,Logs

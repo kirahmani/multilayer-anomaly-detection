@@ -1,0 +1,21 @@
+Window,Decision,Confidence,Metrics Rate,Logs Rate,Traces Rate,Root Cause
+1,NORMAL,31.6%,45.1%,0.0%,0.0%,-
+2,NORMAL,-,0.0%,0.0%,0.0%,-
+3,NORMAL,-,0.0%,0.0%,0.0%,-
+4,NORMAL,-,9.8%,0.0%,0.0%,-
+5,NORMAL,-,0.0%,0.0%,0.0%,-
+6,NORMAL,-,0.0%,0.0%,0.0%,-
+7,NORMAL,-,2.0%,0.0%,0.0%,-
+8,NORMAL,-,0.0%,0.0%,0.0%,-
+9,NORMAL,-,0.0%,0.0%,0.0%,-
+10,NORMAL,-,0.0%,0.0%,0.0%,-
+11,NORMAL,-,0.0%,0.0%,0.0%,-
+12,ANOMALY,40.6%,100.0%,14.0%,0.0%,Metrics: Resource usage
+13,ANOMALY,41.4%,100.0%,14.0%,0.0%,Metrics: Resource usage
+14,ANOMALY,73.8%,100.0%,90.0%,0.0%,Logs: Critical error
+15,ANOMALY,75.3%,100.0%,90.0%,0.0%,Logs: Critical error
+16,ANOMALY,76.7%,100.0%,90.0%,0.0%,Logs: Critical error
+17,ANOMALY,78.1%,100.0%,90.0%,0.0%,Logs: Critical error
+18,ANOMALY,79.5%,100.0%,90.0%,0.0%,Logs: Critical error
+19,ANOMALY,80.9%,100.0%,90.0%,0.0%,Logs: Critical error
+20,ANOMALY,82.4%,100.0%,90.0%,0.0%,Logs: Critical error

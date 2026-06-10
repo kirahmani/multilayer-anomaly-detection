@@ -1,0 +1,7 @@
+Metric,Value,95% CI
+Detection Accuracy,100.0%,"[83.9%, 100.0%]"
+Precision,100.0%,"[70.1%, 100.0%]"
+Recall,100.0%,"[70.1%, 100.0%]"
+F1-Score,100.0%,"[83.9%, 100.0%]"
+False Positive Rate,0.0%,"[0.0%, 25.9%]"
+False Negative Rate,0.0%,"[0.0%, 29.9%]"
