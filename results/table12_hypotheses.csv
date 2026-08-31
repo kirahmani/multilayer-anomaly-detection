@@ -1,4 +1,0 @@
-Hypothesis,Outcome,Evidence
-Multi-layer detection improves accuracy,Accepted,100.0% vs 92-97% single-layer baselines
-Proactive prevention is feasible,Accepted,Detection in first anomaly window (W12) with 100% confidence
-Root cause analysis is possible,Accepted,100% correct root cause identification in all anomaly windows
