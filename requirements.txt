@@ -1,8 +1,18 @@
-numpy
-pandas
-torch
-scikit-learn
-scipy
-matplotlib
-seaborn
-jupyter
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Deep learning (Layer 1 LSTM-Autoencoder)
+torch>=2.0.0
+
+# Machine learning utilities (Layer 3 trace normalisation)
+scikit-learn>=1.2.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0
